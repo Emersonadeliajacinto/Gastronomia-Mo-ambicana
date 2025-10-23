@@ -7,7 +7,8 @@ Bem-vindo ao projeto **Gastronomia Moçambicana**, um website desenvolvido como 
 ## 🌐 Acesso ao site
 
 🔗 **Link do site hospedado no GitHub Pages:**  
-[https://emersonadeliajacinto.github.io/gastronomia-mocambicana/](https://emersonadeliajacinto.github.io/gastronomia-mocambicana/)
+[https://emersonadeliajacinto.github.io/Gastronomia-Mo-ambicana/]
+(https://emersonadeliajacinto.github.io/Gastronomia-Mo-ambicana/)
 
 *(Substitua “teunome” pelo seu nome de utilizador do GitHub)*
 
