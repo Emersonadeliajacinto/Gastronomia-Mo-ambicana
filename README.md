@@ -7,7 +7,7 @@ Bem-vindo ao projeto **Gastronomia Moçambicana**, um website desenvolvido como 
 ## 🌐 Acesso ao site
 
 🔗 **Link do site hospedado no GitHub Pages:**  
-[https://teunome.github.io/gastronomia-mocambicana/](https://teunome.github.io/gastronomia-mocambicana/)
+[https://emersonadeliajacinto.github.io/gastronomia-mocambicana/](https://emersonadeliajacinto.github.io/gastronomia-mocambicana/)
 
 *(Substitua “teunome” pelo seu nome de utilizador do GitHub)*
 
@@ -20,9 +20,9 @@ O site é composto por **quatro páginas interligadas**, todas estilizadas com H
 | Página | Descrição |
 |--------|------------|
 | `bem vindo` | Página inicial com uma breve apresentação do restaurante. |
-| `menu.html` | Lista de pratos típicos moçambicanos e seus respetivos preços. |
-| `sobre.html` | História e missão do restaurante. |
-| `reservas.html` | Formulário simples para reservas (nome, data, hora e número de pessoas). |
+| `menu` | Lista de pratos típicos moçambicanos e seus respetivos preços. |
+| `sobre` | História e missão do restaurante. |
+| `reservas` | Formulário simples para reservas (nome, data, hora e número de pessoas). |
 
 ---
 
