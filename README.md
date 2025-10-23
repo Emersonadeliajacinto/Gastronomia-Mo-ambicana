@@ -19,7 +19,7 @@ O site é composto por **quatro páginas interligadas**, todas estilizadas com H
 
 | Página | Descrição |
 |--------|------------|
-| `index.html` | Página inicial com uma breve apresentação do restaurante. |
+| `bem vindo` | Página inicial com uma breve apresentação do restaurante. |
 | `menu.html` | Lista de pratos típicos moçambicanos e seus respetivos preços. |
 | `sobre.html` | História e missão do restaurante. |
 | `reservas.html` | Formulário simples para reservas (nome, data, hora e número de pessoas). |
